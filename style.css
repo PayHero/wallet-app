@@ -1,1 +1,36 @@
+body {
+    background-color: #d3d3d3;
+    color: green;
+    font-family: Arial, sans-serif;
+}
 
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+.btn {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.round {
+    border-radius: 20px;
+}
+
+.wallet {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+.icon {
+    font-size: 24px;
+    margin-right: 10px;
+  }
